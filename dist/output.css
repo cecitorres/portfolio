@@ -739,9 +739,9 @@ a:hover{
 
 .btn-brand:hover{
   --tw-border-opacity: 1;
-  border-color: rgb(33 150 243 / var(--tw-border-opacity));
+  border-color: rgb(143 202 249 / var(--tw-border-opacity));
   --tw-bg-opacity: 1;
-  background-color: rgb(33 150 243 / var(--tw-bg-opacity));
+  background-color: rgb(143 202 249 / var(--tw-bg-opacity));
 }
 
 .btn-brand:focus{
